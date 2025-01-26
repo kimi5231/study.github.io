@@ -1,0 +1,40 @@
+---
+title: "[모두의 깃&깃허브] revert와 reset"
+date: 2025-01-027
+categories:
+  - 모두의 깃&깃허브
+tags:
+  - git
+  - github
+---
+
+{% capture notice-1 %}
+#### revert
+
+* 버전을 되돌린 새로운 버전을 만드는 것
+* 커밋을 되돌릴 때 사용
+{% endcapture %}
+
+{% capture notice-2 %}
+#### reset
+
+* 버전을 완전히 되돌리는 것
+* 지정한 커밋까지 현재 브랜치를 초기화할 때 사용
+* soft reset, mixed reset, hard reset으로 세 종류
+
+soft reset: 커밋만 되돌리는 것
+mixed reset: 스테이지까지 되돌리는 것
+hard reset: 작업 디렉터리까지 되돌리는 것 
+{% endcapture %}
+
+<div class="notice">
+  {{ notice-1 | markdownify }}
+</div>
+
+<div class="notice">
+  {{ notice-2 | markdownify }}
+</div>
+
+출처: [인프런: 모두의 깃&깃허브][source]
+
+[source]: https://www.inflearn.com/course/%EB%AA%A8%EB%91%90%EC%9D%98-%EA%B9%83-%EA%B9%83%ED%97%88%EB%B8%8C/dashboard
