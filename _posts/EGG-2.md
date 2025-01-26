@@ -1,6 +1,6 @@
 ---
 title: "[모두의 깃&깃허브] revert와 reset"
-date: 2025-01-027
+date: 2025-01-27
 categories:
   - 모두의 깃&깃허브
 tags:
