@@ -24,6 +24,8 @@ tags:
 
 #### 프로젝트 설정
 
+![프로젝트 생성](https://github.com/user-attachments/assets/0f256df2-a6b2-4c2b-8f93-772860b4f89c)
+
 
 1) Windows 데스크톱 애플리케이션 프로젝트를 생성한다.
 
@@ -50,8 +52,12 @@ tags:
  }
 ```
 
+![미리 컴파일된 헤더 설정](https://github.com/user-attachments/assets/65ec808c-2d5b-4b15-9ece-06ee439a317d)
+
 
 3) client 프로젝트의 미리 컴파일된 헤더를 사용으로 변경하고 파일 이름을 pch.h로 변경한다. 이때, 구성과 플랫폼은 모든 구성과 모든 플랫폼으로 바꾼다.
+
+![폴더 정리](https://github.com/user-attachments/assets/26bcdb78-84d7-4b8e-9214-3b7e6b502b3a)
 
 
 4) 소스 파일 폴더에 Game, Utils 폴더를 추가한 뒤, 헤더 파일에 있던 파일들을 전부 Utils 폴더에 옮긴 뒤 헤더 파일 폴더를 삭제한다.
@@ -71,6 +77,8 @@ using namespace std;
 <div class="notice">
   {{ notice-1 | markdownify }}
 </div>
+
+![pch cpp 파일 설정](https://github.com/user-attachments/assets/a6d00b10-e3d4-42cf-b8dc-f71d56ecf578)
 
 
 6) pch.cpp의 미리 컴파일된 헤더를 만들기로 변경한다.
@@ -158,12 +166,17 @@ ATOM MyRegisterClass(HINSTANCE hInstance)
 }
 ```
 
+![프로젝트 추가](https://github.com/user-attachments/assets/9ba046db-9ae6-4d4d-a757-2eb794c05e11)
+
 
 10) DLL(동적 연결 라이브러리) 프로젝트를 추가한다. 이 프로젝트는 라이브러리 용이기 때문에 별도로 실행할 수 없다.
 
 <div class="notice">
   {{ notice-2 | markdownify }}
 </div>
+
+![엔진 폴더 정리](https://github.com/user-attachments/assets/b17402e1-ff0a-49ca-afb2-45c13de0bfb1)
+
 
 11) Engine 프로젝트에 Engine, Resource, Utils 폴더를 추가한 뒤, Utils 폴더에 pch 클래스만 옮긴 뒤 나머지 파일은 삭제한다. 그리고 소스 파일과 헤더 파일 폴더를 삭제한다.
 
@@ -238,11 +251,20 @@ void HelloEngine()
 
 13) Engine 프로젝트 Utils 폴더에 d3dx12 헤더를 추가한다.
 
+![Output 폴더](https://github.com/user-attachments/assets/6247b9d8-2738-4dc2-ba27-1045e85b8648)
+![엔진 경로 설정](https://github.com/user-attachments/assets/fe744e98-81e8-46ad-83da-14694fdfd265)
+
 
 14) Output 폴더를 추가한 후 Engine 프로젝트의 출력 디렉터리 경로를 수정한다.
 
+![리소스 폴더](https://github.com/user-attachments/assets/f023b490-cc33-48e6-9ee7-939424151074)
+
 
 15) Resources 폴더를 추가한다.
+
+![Client 포함 디렉터리](https://github.com/user-attachments/assets/be59d37b-c0f5-44df-8cfc-d23e4bed0d52)
+![Client 라이브러리 디렉터리](https://github.com/user-attachments/assets/2d2ab2e9-e5b8-4d7c-b999-e3f6a88e7b18)
+![클라이언트 추가 종속성](https://github.com/user-attachments/assets/021da8dc-5f3d-4667-b685-40d1b7b08d0e)
 
 
 16) Client 프로젝트에서 Engine 라이브러리를 사용하기 위해 포함 디렉터리, 라이브러리 디렉터리, 추가 종속성 경로를 수정한다.
