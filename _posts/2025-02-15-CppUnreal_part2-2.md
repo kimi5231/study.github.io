@@ -46,6 +46,8 @@ tags:
 * CPU, GPU 동기화를 위한 도구
 {% endcapture %}
 
+![캡처](https://github.com/user-attachments/assets/ca3a6523-f739-483e-94ca-6bf95b9bb659)
+
 
 #### Client 프로젝트 출력 디렉터리 경로 수정
 
