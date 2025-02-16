@@ -376,6 +376,9 @@ void Shader::CreatePixelShader(const wstring& path, const string& name, const st
   {{ notice-2 | markdownify }}
 </div>
 
+![셰이더 폴더](https://github.com/user-attachments/assets/bcd368bb-1c3d-4fb6-a2c7-0aa2e2c998ce)
+![셰이더 필터](https://github.com/user-attachments/assets/444957a8-7d58-4b59-a7c3-6e04985a2cec)
+
 
 #### Shader 폴더와 필터 추가
 
