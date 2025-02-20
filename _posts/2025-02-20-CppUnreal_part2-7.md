@@ -19,13 +19,17 @@ tags:
   {{ notice-1 | markdownify }}
 </div>
 
+![라이브러리 폴더 추가](https://github.com/user-attachments/assets/95eccf97-63e5-4ee8-a654-0a80bd9a8b51)
+![폴더 추가](https://github.com/user-attachments/assets/5726cccc-8191-44af-91e1-96fca8d42c7f)
 
 
 #### Library 폴더 추가 후, 내부에 Lib, Include 폴더 추가
 
+![립](https://github.com/user-attachments/assets/2badb6f2-4760-4dc5-adea-8ed6f7c40b41)
 
 
 #### Lip
+![인클루드](https://github.com/user-attachments/assets/5c324bb2-7899-4732-ba09-ab6347819437)
 
 
 #### Include
@@ -46,14 +50,19 @@ tags:
 #endif
 ```
 
+![엔지 포함 디렉터리](https://github.com/user-attachments/assets/4edfc7c4-434b-4416-8588-3b719fa97c20)
 
 
 #### Engine 프로젝트의 포함 디렉터리 경로 수정
 
+![클라이언트 포함 디렉터리](https://github.com/user-attachments/assets/3186b7cc-1fae-494b-b98e-c63ad3de6ea9)
+![클라이언트 라이브러리 디렉터리](https://github.com/user-attachments/assets/ff3b8dc9-fc0f-4a3b-b8a2-bbde78f8deb2)
 
 
 #### Client 프로젝트 포함 디렉터리, 라이브러리 디렉터리 경로 수정
 
+![엔진 17](https://github.com/user-attachments/assets/0270ea55-eb51-4161-ba72-ac7f8ac6bbff)
+![클라이언트 17](https://github.com/user-attachments/assets/94d930cc-c23e-455a-a409-14d819d1e3ee)
 
 
 #### Engine, Client 프로젝트 c++17 사용 가능하도록 설정
@@ -505,6 +514,7 @@ void Game::Init(const WindowInfo& info)
 }
 ```
 
+![텍스처 폴더 추가](https://github.com/user-attachments/assets/07962670-0ff0-4971-9b18-e3e362ab50ad)
 
 
 #### Resource 폴더에 Texture 폴더 추가 후 이미지 넣기
