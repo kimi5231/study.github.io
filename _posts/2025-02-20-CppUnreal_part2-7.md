@@ -15,6 +15,10 @@ tags:
 * 3D 그래픽에서 폴리곤으로 제작된 오브젝트에 덧씌워 다양한 색상이나 질감 등을 표현하는데 쓰이는 2D 이미지
 {% endcapture %}
 
+{% capture notice-2 %}
+* Texture를 사용하기 위한 클래스
+{% endcapture %}
+
 <div class="notice">
   {{ notice-1 | markdownify }}
 </div>
@@ -29,6 +33,7 @@ tags:
 
 
 #### Lip
+
 ![인클루드](https://github.com/user-attachments/assets/5c324bb2-7899-4732-ba09-ab6347819437)
 
 
@@ -274,6 +279,11 @@ void Texture::CreateView()
 	DEVICE->CreateShaderResourceView(_tex2D.Get(), &srvDesc, _srvHandle);
 }
 ```
+
+<div class="notice">
+  {{ notice-2 | markdownify }}
+</div>
+
 
 #### RootSignature 클래스에 SamplerDescriptor 추가 및 RootSignature에 SRV 추가
 
