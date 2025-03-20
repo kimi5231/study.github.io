@@ -19,6 +19,7 @@ tags:
 * 역할에 따라 Scene을 분할하고, 보통 각 Scene별로 사용하는 리소스가 많이 다를 경우 분할함
 {% endcapture %}
 
+![Manager](https://github.com/user-attachments/assets/b9f5e0a2-020e-460f-aca6-e7bc54b22115)
 
 
 #### Engine 프로젝트에 Manager 필터 추가
