@@ -25,8 +25,7 @@ tags:
 * 비율에 따른 각도를 구하는 함수
 {% endcapture %}
 
-
-
+![피타고라스의 정리](https://github.com/user-attachments/assets/c7874b76-61df-461a-9d22-df399fd5d5fa)
 
 
 <div class="notice">
@@ -35,6 +34,7 @@ tags:
 
 #### 삼각함수
 
+![삼각함수](https://github.com/user-attachments/assets/f215cf5b-78a6-43dd-856b-cad8dbc453ef)
 
 
 <div class="notice">
@@ -43,6 +43,7 @@ tags:
 
 #### 역삼각함수
 
+![역삼각함수](https://github.com/user-attachments/assets/949d7177-78ec-47e0-b8a1-f9d64c18ed93)
 
 
 <div class="notice">
@@ -51,10 +52,12 @@ tags:
 
 #### 코사인 법칙
 
+![코사인 법칙](https://github.com/user-attachments/assets/d5bd237d-afe9-446d-9c5b-4de09640c9ca)
 
 
 #### 삼각함수의 덧셈 정리
 
+![덧셈 정리](https://github.com/user-attachments/assets/8563fc3f-2229-4ad5-8f48-284715ca9872)
 
 
 출처: [인프런: C++과 언리얼로 만드는 MMOPRG 게임 개발 시리즈 Part2][source]
