@@ -67,6 +67,8 @@ tags:
 
 #### 벡터의 덧셈, 뺄셈
 
+![벡터의 덧셈](https://github.com/user-attachments/assets/e77b622f-6447-4692-9f24-4f08c7ebf9cd)
+![벡터의 뺄셈](https://github.com/user-attachments/assets/119ae46f-e47b-442e-935a-3a83161680b7)
 
 
 <div class="notice">
@@ -75,6 +77,7 @@ tags:
 
 #### 벡터와 스칼라 곱셈, 나눗셈
 
+![벡터와 스칼라 곱셈](https://github.com/user-attachments/assets/05a31a21-29fd-48a8-8ac8-f0d09820139b)
 
 
 <div class="notice">
@@ -91,6 +94,7 @@ tags:
 
 #### 벡터의 내적
 
+![벡터의 내적](https://github.com/user-attachments/assets/d4fab238-574e-46c9-be38-793e324f81b9)
 
 
 <div class="notice">
@@ -99,6 +103,7 @@ tags:
 
 #### 벡터의 외적
 
+![벡터의 외적](https://github.com/user-attachments/assets/db51aed3-b584-44f3-92c0-eaf6103fca78)
 
 
 <div class="notice">
