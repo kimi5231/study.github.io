@@ -59,10 +59,12 @@ tags:
 
 #### 행렬과 스칼라 값의 곱셈
 
+<img width="219" alt="행렬의 스칼라 곱" src="https://github.com/user-attachments/assets/5c632fb0-da0c-4084-b639-e19e067291c9" />
 
 
 #### 행렬의 덧셈, 뺄셈
 
+![행렬의 덧셈 뺄셈](https://github.com/user-attachments/assets/6ddaae08-aa2b-4004-b442-f822615054bc)
 
 
 <div class="notice">
@@ -71,6 +73,7 @@ tags:
 
 #### 행렬의 곱셈
 
+<img width="714" alt="행렬의 곱셈" src="https://github.com/user-attachments/assets/9a0449b6-9c9f-40cb-aae6-02a9ef41cb2c" />
 
 
 <div class="notice">
@@ -79,6 +82,8 @@ tags:
 
 #### 단위 행렬
 
+<img width="118" alt="단위 행렬" src="https://github.com/user-attachments/assets/3332907f-c8ba-4331-8cd7-848340b672ad" />
+![단위 행렬 공식](https://github.com/user-attachments/assets/4244f402-fb0c-4a85-9a6e-a1e4763d88ce)
 
 
 <div class="notice">
@@ -87,6 +92,9 @@ tags:
 
 #### 역행렬
 
+<img width="345" alt="역행렬 공식" src="https://github.com/user-attachments/assets/ed52a2de-bcdc-46da-85d5-2ca729af29c9" />
+![역행렬 존재](https://github.com/user-attachments/assets/37140ddc-9c64-4ce6-b460-a36298144ec8)
+![역행렬 교환 법칙](https://github.com/user-attachments/assets/26ce9d12-fb54-478a-b93b-154cadbbe93d)
 
 
 <div class="notice">
@@ -95,6 +103,8 @@ tags:
 
 #### 전치 행렬
 
+![전치 행렬](https://github.com/user-attachments/assets/14240652-c5c5-4228-96e7-7701e101a8a6)
+![전치 행렬 연산](https://github.com/user-attachments/assets/e5b18834-a472-40fe-9753-a4af4ebdd1ac)
 
 
 <div class="notice">
@@ -103,6 +113,7 @@ tags:
 
 #### 직교 행렬
 
+![직교 행렬 연산](https://github.com/user-attachments/assets/84da7828-9ff9-4137-9805-40fd463d8e4d)
 
 
 <div class="notice">
