@@ -21,6 +21,7 @@ tags:
 
 #### 벡터의 변환
 
+![동차 좌표계](https://github.com/user-attachments/assets/b3bbe55a-925b-4319-87c7-24357b6886b4)
 
 
 <div class="notice">
