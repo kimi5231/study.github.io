@@ -58,6 +58,7 @@ tags:
 
 #### 월드 변환 행렬
 
+![월드 변환 행렬](https://github.com/user-attachments/assets/7c1f159c-70de-49ab-bfd6-1161f916f2c9)
 
 
 <div class="notice">
@@ -66,6 +67,7 @@ tags:
 
 #### 카메라 변환 행렬
 
+![카메라 변환 행렬](https://github.com/user-attachments/assets/b19ce685-32a6-45aa-a953-99ad9ae3d875)
 
 
 출처: [인프런: C++과 언리얼로 만드는 MMOPRG 게임 개발 시리즈 Part2][source]
