@@ -35,6 +35,7 @@ tags:
 
 #### 원근 투영 변환 행렬
 
+![원근 투영 변환 행렬](https://github.com/user-attachments/assets/4dee7ed4-1ee4-4cc2-aa5f-4431660c5767)
 
 
 <div class="notice">
@@ -43,6 +44,7 @@ tags:
 
 #### 뷰포트 변환 행렬
 
+![뷰포트 변환 행렬](https://github.com/user-attachments/assets/b1f4e08c-9614-4434-97cd-8afd8b903c38)
 
 
 출처: [인프런: C++과 언리얼로 만드는 MMOPRG 게임 개발 시리즈 Part2][source]
