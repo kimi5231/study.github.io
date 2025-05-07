@@ -29,6 +29,8 @@ tags:
 
 #### Engine 폴더에 SimpleMath 헤더, 인라인, cpp파일 추가 후 Utils 필터에 추가
 
+![Engine 폴더](https://github.com/user-attachments/assets/3899b988-4ed8-4eef-a5e4-5393c2c2afe3)
+![Utils 필터](https://github.com/user-attachments/assets/4cbeaf3b-3a21-42d4-8dd5-4c731757d468)
 
 
 #### EnginePch에 SimpleMath 헤더 추가 후 Vector와 Matrix 모두 SimpleMath로 수정
@@ -713,6 +715,7 @@ shared_ptr<Scene> SceneManager::LoadTestScene()
 
 #### GameObject 필터에 Test 필터 추가 후 TestCameraScript 클래스 추가
 
+![Test 필터](https://github.com/user-attachments/assets/bf28cde8-ee4c-43e3-8724-a45df9f48afa)
 
 
 #### TestCameraScript.h
