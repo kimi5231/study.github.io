@@ -9,20 +9,6 @@ tags:
 
 
 
-{% capture notice-1 %}
-* 
-{% endcapture %}
-
-{% capture notice-2 %}
-* 
-{% endcapture %}
-
-{% capture notice-3 %}
-* 
-{% endcapture %}
-
-
-
 #### Manager 필터에 Resources 클래스 추가
 
 #### Resources.h
@@ -379,14 +365,17 @@ Object::~Object()
 }
 ```
 
+![Object 필터](https://github.com/user-attachments/assets/7e6b3b99-ac2f-4cf4-8e04-06fbe6c3d877)
 
 
 #### Object 필터에 Component 필터 추가 후 Camera, Component, MeshRenderer, MonoBehaviour, Transform 클래스 이동
 
+![Component 필터](https://github.com/user-attachments/assets/f316530b-e0cc-4a95-ab53-133a1b9f3773)
 
 
 #### Resource 필터를 Object 필터로 이동
 
+![Resource 필터](https://github.com/user-attachments/assets/a97e4967-a24a-4ea0-bd70-5f6bc318a861)
 
 
 #### OBJECT_TYPE에 있는 클래스들이 Object를 상속하도록 코드 추가
