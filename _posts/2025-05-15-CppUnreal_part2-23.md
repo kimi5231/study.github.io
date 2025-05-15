@@ -177,7 +177,7 @@ void RootSignature::CreateRootSignature()
 
 	CD3DX12_ROOT_PARAMETER param[2];
 	param[0].InitAsConstantBufferView(static_cast<uint32>(CBV_REGISTER::b0)); // b0
-	param[0].InitAsDescriptorTable(_countof(ranges), ranges);
+	param[1].InitAsDescriptorTable(_countof(ranges), ranges);
 
 	D3D12_ROOT_SIGNATURE_DESC sigDesc = CD3DX12_ROOT_SIGNATURE_DESC(_countof(param), param, 1, &_samplerDesc);
 	sigDesc.Flags = D3D12_ROOT_SIGNATURE_FLAG_ALLOW_INPUT_ASSEMBLER_INPUT_LAYOUT; // 입력 조립기 단계
@@ -402,7 +402,7 @@ void Transform::PushData()
 #### 쉐이더 파일에 있던 기존 파라미터들의 이름 수정 후 LightColor, LightInfo, GLOBAL_PARAMS 추가
 
 #### default.hlsli
-```cpp
+```hlsli
 struct LightColor
 {
     float4      diffuse;
@@ -463,7 +463,7 @@ SamplerState g_sam_0 : register(s0);
 #### Shader 필터에 params, utils 쉐이더 파일 추가 후 용도에 따라 파일 분할
 
 #### default.hlsli
-```cpp
+```hlsli
 #ifdef _DEFAULT_HLSL_
 #define _DEFAULT_HLSL_
 
@@ -507,7 +507,7 @@ float4 PS_Main(VS_OUT input) : SV_Target
 ```
 
 #### params.hlsli
-```cpp
+```hlsli
 #ifdef _PARAMS_HLSL_
 #define _PARAMS_HLSL_
 
