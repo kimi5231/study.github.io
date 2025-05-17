@@ -37,6 +37,7 @@ Normal Mapping: 정점을 늘리지 않고 픽셀 단위로 노멀 벡터의 값
 
 #### Resouces 폴더에 Texture 파일 추가
 
+![Texture](https://github.com/user-attachments/assets/8d91d3f2-6595-48b7-8abe-ed1f9ee0d5c4)
 
 
 #### SceneManager LoadTestScene 함수에서 Sphere를 Cube로 변경 후 Directional Light만 남긴 후 색상을 흰색으로 변경
