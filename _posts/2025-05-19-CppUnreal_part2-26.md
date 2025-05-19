@@ -29,6 +29,7 @@ tags:
 
 #### Resources 폴더에 SkyBox Texture 추가
 
+![SkyBox](https://github.com/user-attachments/assets/d534d7c9-c29f-4439-8992-15c606e23225)
 
 
 #### Shader 클래스에 RASTERIZER_TYPE, DEPTH_STENCIL_TYPE enum class, ShaderInfo 구조체 추가
