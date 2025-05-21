@@ -18,6 +18,7 @@ tags:
 
 #### 직교 투영 행렬
 
+![직교 투영 행렬](https://github.com/user-attachments/assets/84bc907b-e9ba-44b6-a39a-3180ae4e919d)
 
 
 <div class="notice">
@@ -26,10 +27,12 @@ tags:
 
 #### 쉐이더 파일들의 확장자를 전부 fx로 수정 후 default 쉐이더 이름을 forward로 변경
 
+![확장자](https://github.com/user-attachments/assets/dfe8c971-5a35-428b-a7b2-1e444e2dc126)
 
 
 #### 속성 페이지에서 셰이더 모델 5.0으로 지정 후 셰이더 형식을 효과로 변경
 
+![Shader](https://github.com/user-attachments/assets/2bf3f35f-8de4-4528-9ec0-e44bba3354b0)
 
 
 #### SceneManager 헤더에 Layer 수를 나타내는 enum 추가
