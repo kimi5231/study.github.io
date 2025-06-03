@@ -35,6 +35,7 @@ tags:
 
 #### Texture 폴더에 Particle 폴더 생성 후 Particle Texture 추가
 
+![1](https://github.com/user-attachments/assets/f851ee2c-183a-4f98-8694-a48214e97231)
 
 
 #### particle shader 파일 추가
