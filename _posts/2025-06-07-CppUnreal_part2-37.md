@@ -21,6 +21,7 @@ tags:
 
 #### Texture 폴더에 Terrain 폴더 생성 후 height map과 Terrain 이미지 추가
 
+![Terrain](https://github.com/user-attachments/assets/090b9608-d28f-4209-b2fe-716c0fae52cd)
 
 
 #### Resources 클래스에 LoadTerrainMesh 함수 추가 및 CreateDefaultShader, CreateDefaultMaterial 함수에 Terrain 추가
