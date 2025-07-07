@@ -23,6 +23,7 @@ tags:
 
 #### Component 필터에 Collider 필터 추가 및 BaseCollider, SphereCollider 클래스 추가
 
+![image](https://github.com/user-attachments/assets/5b9525a0-6bbb-43a8-93b8-a5e4c13163ab)
 
 
 #### BaseCollider.h
