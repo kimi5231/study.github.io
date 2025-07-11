@@ -11,10 +11,13 @@ tags:
 
 #### VS 버전에 맞는 FBX SDK 파일 다운로드 후 Include, Lib 폴더에 파일 추가
 
+<img width="550" height="182" alt="image" src="https://github.com/user-attachments/assets/d05b68c5-79a6-4a1c-b65c-f8aa8aa2858a" />
+<img width="654" height="184" alt="image" src="https://github.com/user-attachments/assets/a3fd6529-3134-448a-af37-36763a30ce04" />
 
 
 #### Resource 폴더에 FBX 파일 추가
 
+<img width="658" height="153" alt="image" src="https://github.com/user-attachments/assets/6ded9878-877a-4680-bc1e-74b8653a5bd7" />
 
 
 #### EnginePch 클래스에 FBX 헤더와 lib 파일을 사용하기 위한 코드 추가 및 wstring, string 변환 함수 추가
